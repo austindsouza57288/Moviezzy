@@ -1,6 +1,7 @@
-# React + Vite
+# React + Vite Movie Details App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vite template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app contains details of Top rated, upcoming and popular movies with search and filter functionality.
 
 Currently, two official plugins are available:
 
